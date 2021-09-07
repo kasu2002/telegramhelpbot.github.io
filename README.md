@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<samp>A pyrogram pluggable telegram helper bot for users.</b></samp>
+<samp>A pyrogram pluggable telegram helper bot for users.</samp>
 </p>
 
 ---
